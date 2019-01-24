@@ -1,3 +1,6 @@
+/*
+https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_c
+*/
 #include<cstdio>
 #include<algorithm>
 #define mod 1000000007
