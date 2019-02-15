@@ -1,6 +1,7 @@
 {
     "C_Cpp.intelliSenseEngineFallback": "Disabled",
     "files.associations": {
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "cstdio": "cpp"
     }
 }
