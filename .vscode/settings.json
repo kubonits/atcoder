@@ -4,6 +4,7 @@
         "cstring": "cpp",
         "cstdio": "cpp",
         "cmath": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "algorithm": "cpp"
     }
 }
