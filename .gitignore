@@ -1,4 +1,7 @@
-*.exe
+# *.exe
 *.txt
 *.in
 *.out
+*.json
+test.py
+c.py
